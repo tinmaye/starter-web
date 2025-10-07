@@ -12,3 +12,6 @@ This is a simmple web project, development can be on web server or even local fi
 
 ##How to Contribute
 Sample website with plenty of files for demos
+
+###Copyright
+2025 Git copyright
