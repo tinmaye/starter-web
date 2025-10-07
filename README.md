@@ -1,7 +1,7 @@
 # Starter Web Repo (project)
 
 This repository is for showing how Git and GitHub work
-This project showing how to use Git and GitHub together.(Master)Test for rebase test in Master.
+This project showing how to use Git and GitHub together.(Master)Test for rebase test in Master.Change more in myfeature1.
 
 ##Introduction
 This is example to show different parts of Git Repository and various comands using web project. 
