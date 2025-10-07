@@ -12,6 +12,7 @@ This is a simmple web project, development can be on web server or even local fi
 
 ##How to Contribute
 Sample website with plenty of files for demos
+Please Fork this repository and then issue PULL request  for review. (this 2nd line added in master branch after creating simple-change branch)
 
 ###Copyright
 2025 Git copyright
